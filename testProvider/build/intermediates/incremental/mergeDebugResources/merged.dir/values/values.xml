@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestProvider</string>
+    <string name="start">Start Test Provider</string>
+    <string name="status">Status:</string>
+    <string name="stop">Stop Test Provider</string>
+</resources>

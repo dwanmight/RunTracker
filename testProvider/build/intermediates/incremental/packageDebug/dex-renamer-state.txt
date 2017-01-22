@@ -1,0 +1,7 @@
+#Thu Jan 12 12:33:17 EET 2017
+base.0=D\:\\Android\\Project\\AndroidStudioProjects\\RunTracker\\testProvider\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_58ae8c6a5708ff8ff6a5418d25e4becf3a56f353
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Android\\Project\\AndroidStudioProjects\\RunTracker\\testProvider\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ca75d3774c27abb72d4e09c4dd7bfa7090bad386\\classes.dex
+base.1=D\:\\Android\\Project\\AndroidStudioProjects\\RunTracker\\testProvider\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ca75d3774c27abb72d4e09c4dd7bfa7090bad386
+file.0=D\:\\Android\\Project\\AndroidStudioProjects\\RunTracker\\testProvider\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_58ae8c6a5708ff8ff6a5418d25e4becf3a56f353\\classes.dex
